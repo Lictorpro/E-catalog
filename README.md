@@ -1,5 +1,5 @@
 # Razvoj-softvera-ispit
-Samo ucitajte SQL fajl ne morate da pravite praznu bazu.<br>
+Nije potrebno praviti praznu bazu, SQL je sam kreira.<br>
 Parametri za logovanje:<br>
 Username: admin1<br>
 Prassword: 123
