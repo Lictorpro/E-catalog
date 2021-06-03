@@ -1,4 +1,4 @@
-# Razvoj-softvera-ispit
+# Note
 Nije potrebno praviti praznu bazu, SQL je sam kreira.<br>
 Parametri za logovanje:<br>
 Username: admin1<br>
