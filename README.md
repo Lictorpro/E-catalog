@@ -1,4 +1,4 @@
-# Moble phones e-catalog<br>
+# E-catalog<br>
 University project made using html, css, php and mysql database with documentation.<br>
 
 ## Note<br>
